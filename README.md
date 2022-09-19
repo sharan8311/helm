@@ -70,4 +70,4 @@ You can reach the Helm community and developers via the following channels:
 
 ### Code of conduct
 
-Participation in the Helm community is governed by the [Code of Conduct](code-of-conduct.md).
+Participation in the Helm community is governed by the ([Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)).
